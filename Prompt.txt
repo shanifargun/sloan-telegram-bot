@@ -1,0 +1,27 @@
+I have a dataset available here: [link to data]
+
+Please build a Streamlit dashboard to analyze this data.
+
+For reference, here are:
+
+A previously built dashboard: [link to dashboard]
+
+A template EDA (notebook converted to py file): [link to EDA]
+
+Requirements:
+
+- Analyze the dataset thoroughly, make sure to know the column names.
+
+- Analyze the reference codes thoroughly. Multiple analysis steps will be needed FOR EACH REFERENCE FILE.
+
+- Reproduce all visualizations from the template EDA Python file in the dashboard.
+
+- Add any additional visualizations or insights you think would be valuable to a user.
+
+- You do not need to include export-to-Excel or PDF features.
+
+- Maintain a clean, user-friendly UI.
+
+- Ensure the code is well-commented and organized.
+
+- Because this will be a large project, please develop the code in steps to avoid timeouts. If it times out, reduce the size of the steps. 

@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info
+
+# Environment
+.env
+
+# Data files
+user_connections.csv
+
+# Editor
+.vscode/
+.idea/

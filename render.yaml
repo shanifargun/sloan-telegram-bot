@@ -8,3 +8,9 @@ services:
       - key: TELEGRAM_TOKEN
         value: YOUR_BOT_TOKEN_HERE
     plan: free
+
+schedules:
+  - name: daily-messaging
+    schedule: "0 0 * * *"  # Runs at midnight UTC every day
+    command: "python bot.py"
+    service: sloan-bot
